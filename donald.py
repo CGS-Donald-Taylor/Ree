@@ -1,2 +1,2 @@
 name = Donald
-print("Hello, " + name + "!")
+print("Hello, " + name + ".")
